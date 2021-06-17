@@ -1,2 +1,3 @@
 # Enrique-Py
-Copilation of Python programming codes
+Copilation of Python programming codes.
+Some Quant and Machine Learning Stuff...
